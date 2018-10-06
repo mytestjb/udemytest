@@ -1,2 +1,2 @@
 # udemytest
-test repo for udemy coure - OKEYkv
+test repo for udemy coure - OKEYkvs
